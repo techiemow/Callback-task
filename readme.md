@@ -4,7 +4,7 @@
 - The task is completed and all the codes are present in this file     
 - I used javascript,CSS and HTML to complete the given task.
 - Here all the callBack functions are nested over each other .    
-
+- I followed all the constraints given  
 **url**:
 
 OUTPUT Screenshot (for reference)
